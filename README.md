@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Maciek and I am a student of Politechnika Krakowska.
 - 👀 I’m interested in many things, for example Airsoft, computer science, football, programming and many more...
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m currently working with React.js, Tailwindcss, Flutter, Java and more
 - 📫 You can reach me at maciek.korsakowski@gmail.com  
 
 <!---
