@@ -1,9 +1,37 @@
-- 👋 Hi, my name is Maciek and I am a student of Politechnika Krakowska.
-- 👀 I’m interested in many things, for example Airsoft, computer science, football, programming and many more...
-- 🌱 I’m currently working with React.js, Tailwindcss, Flutter, Java and more
-- 📫 You can reach me at maciek.korsakowski@gmail.com  
+Hi there, I'm Maciek! 👋
 
-<!---
-Mattias988/Mattias988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a student at Politechnika Krakowska, constantly exploring and learning new things to expand my knowledge and skills.
+
+🌟 About Me
+
+Interests:I'm passionate about a wide range of activities, including:
+
+🎯 Airsoft
+
+💻 Computer Science
+
+⚽ Football
+
+👨‍💻 Programming
+
+...and many more!
+
+Current Focus:I am currently working with technologies like:
+
+⚛️ React.js
+
+🎨 TailwindCSS
+
+📱 Flutter
+
+☕ Java
+
+...and always looking for more to learn and master!
+
+📬 Get in Touch
+
+Feel free to reach out to me! I'm always open to collaboration, discussions, or just a friendly chat.
+
+📧 Email: maciek.korsakowski@gmail.com
+
+Thanks for stopping by, and have a great day! 😄
