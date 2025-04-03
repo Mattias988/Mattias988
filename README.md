@@ -20,7 +20,7 @@ Beyond coding, I have a broad range of interests:
 
 Here's the tech stack I actively use and develop within my projects and professional work:
 
-*   <0xF0><0x9F><0xA7><0xB3> **TypeScript** & <0xF0><0x9F><0x9F><0xA8> **JavaScript**
+*    **TypeScript** & **JavaScript**
 *   ⚛️ **React.js**
 *   🎨 **TailwindCSS**
 *   ☕ **Java** & 🌱 **Spring Boot**
@@ -46,7 +46,6 @@ You'll find more details there about what I've created.
 I'm always open to interesting discussions, collaboration proposals, or just a casual chat about technology (and beyond!).
 
 *   📧 Email: [maciek.korsakowski@gmail.com](mailto:maciek.korsakowski@gmail.com)
-*   <!-- You can add your LinkedIn link here if you have one -->
 
 Don't hesitate to reach out!
 
