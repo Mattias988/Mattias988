@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maciek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub profile! I'm a technology enthusiast passionate about programming and problem-solving. Here you'll find my projects, experiments, and everything I'm currently working on in the world of code.
+Welcome to my GitHub profile! I'm a technology enthusiast passionate about programming and problem-solving. Here you'll find my projects and everything I'm currently working on in the world of code.
 
 ---
 
@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I'm a technology enthusiast passionate about progr
 
 Beyond coding, I have a broad range of interests:
 
-*   👨‍💻 **Programming:** Naturally! It's my main driving force. I love creating and learning new things.
-*   💻 **Computer Science:** Delving into how systems and technologies work is fascinating to me.
-*   🎯 **Airsoft:** Adrenaline and strategy in the field.
-*   ⚽ **Football (Soccer):** Physical activity and teamwork.
-*   🌐 ...and a constant desire to discover something new!
+* 🏍️ **Motorcycles:** A passion for machines, with a special emphasis on motorcycles.
+* 🏋️‍♂️ **Gym:** Focusing on strength and physical fitness.
+* ⚽ **Football (Soccer):** Physical activity and teamwork.
+* 🌐 **...and a constant desire to discover something new!**
 
 ---
 
@@ -20,24 +19,23 @@ Beyond coding, I have a broad range of interests:
 
 Here's the tech stack I actively use and develop within my projects and professional work:
 
-*    **TypeScript** & **JavaScript**
-*   ⚛️ **React.js**
-*   🎨 **TailwindCSS**
-*   ☕ **Java** & 🌱 **Spring Boot**
-*   🐘 **PostgreSQL**
-*   📱 **Flutter** *(for mobile app development)*
-
-I strive to stay up-to-date and am always open to learning new tools and frameworks! ✨
+* **TypeScript** & **JavaScript**
+* ⚛️ **React.js**
+* 📱 **React Native**
+* 🎨 **TailwindCSS** & **SCSS**
+* ☕ **Java** & 🌱 **Spring Boot**
+* 🐍 **Python** & **FastAPI**
+* 🐘 **PostgreSQL**
+* 🐳 **Docker**
+* 🔵 **Wordpress**
 
 ---
 
-## ✨ Check Out My Portfolio!
+## ✨ Check Out My Little Website!
 
-Want to see concrete examples of my work and projects? Feel free to visit my online portfolio:
+Here you can see my little first website :):
 
 **➡️ [mkorsakowsky.vercel.app](https://mkorsakowsky.vercel.app/) ⬅️**
-
-You'll find more details there about what I've created.
 
 ---
 
